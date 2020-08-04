@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Yuri Uliam
 
 ## Heyo, pessoal! Tudo bem? 👋
-Sou um profissional e hobbysta em desenvolvimento web, amo resolver problemas e por meio da programação e trazer soluções inovadoras.
+Sou um profissional e hobbysta em desenvolvimento web, amo resolver problemas por meio da programação e trazer soluções inovadoras.
 Sou um Fullstack Web Developer :computer:
 
  :rocket:  &nbsp; Atualmente estou trabalhando na **Stefanini**
