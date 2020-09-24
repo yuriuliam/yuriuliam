@@ -24,7 +24,7 @@ Sou um profissional e hobbysta em desenvolvimento web, amo resolver problemas po
 Sou um Fullstack Web Developer :computer:
 
  :rocket:  &nbsp; Atualmente estou trabalhando na **Stefanini**
- <br/> :purple_heart: &nbsp; Buscando criar colaborar com projetos em Front-end usando React e Electron
+ <br/> :coffee: &nbsp; Buscando criar colaborar com projetos em Front-end usando React e Electron
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games DBD, TF2 e seriados no Netflix
