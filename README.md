@@ -28,6 +28,4 @@ Sou um Fullstack Web Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games DBD, TF2 e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo por aqui: [![Linkedin Badge](https://img.shields.io/badge/-YuriUliam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-uliam-423586184/)](https://www.linkedin.com/in/yuri-uliam-423586184/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-yuriuliamdelima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuriuliamdelima@gmail.com)](mailto:yuriuliamdelima@gmail.com)
+ <br/> :email: &nbsp; Entre em contato comigo por aqui: [![Linkedin Badge](https://img.shields.io/badge/-YuriUliam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-uliam-423586184/)](https://www.linkedin.com/in/yuri-uliam-423586184/)
