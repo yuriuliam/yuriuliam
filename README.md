@@ -15,17 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 # Yuri Uliam
 
-## Heyo, pessoal! Tudo bem? 👋
-Sou um profissional e hobbysta em desenvolvimento web, amo resolver problemas por meio da programação e trazer soluções inovadoras.
-Sou um Fullstack Web Developer :computer:
+## Hello! How are you doing? 👋 &nbsp;
+I'm a web development engineer who loves to solve problems using programming languages, bringing innovative solutions.<br/>
 
- :rocket:  &nbsp; Atualmente estou trabalhando na **Stefanini**
- <br/> :coffee: &nbsp; Buscando criar colaborar com projetos em Front-end usando React e Electron
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games DBD, TF2 e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo por aqui: [![Linkedin Badge](https://img.shields.io/badge/-YuriUliam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-uliam-423586184/)](https://www.linkedin.com/in/yuri-uliam-423586184/)
+## About me 📙 &nbsp;
+:rocket:  &nbsp; Working at **[ioet](https://github.com/ioet)**
+<br/> :coffee: &nbsp; Looking for project collabs using React and Electron.
+<br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox.
+<br/> 💬 &nbsp; Love to play some games like Stardew Valley, Armello, Inscryption etc;
+<br/> 🖥️ &nbsp; Also looking for new series on Netflix, Disney+ and HBO Max.
+<br/>
+
+## :computer: Current Stack:<br/>
+[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
+[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />](https://elixir-lang.org/)
+[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+
+## Contact me :email: &nbsp;
+[<img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yuri-uliam-de-lima-423586184/)
