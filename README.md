@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 # Yuri Uliam
 
 ## Hello! How are you doing? 👋 &nbsp;
-I'm a web development engineer who loves to solve problems using programming languages, bringing innovative solutions.<br/>
+I'm a web development engineer who loves to solve problems bringing innovative solutions.<br/>
 
 ## About me 📙 &nbsp;
-:rocket:  &nbsp; Working at **[ioet](https://github.com/ioet)**
+:rocket:  &nbsp; Working at **[@ioet](https://github.com/ioet)**
 <br/> :coffee: &nbsp; Looking for project collabs using React and Electron.
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox.
 <br/> 💬 &nbsp; Love to play some games like Stardew Valley, Armello, Inscryption etc;
