@@ -28,7 +28,7 @@ I'm a web development engineer who loves to solve problems bringing innovative s
 <br/> 🖥️ &nbsp; Also looking for new series on Netflix, Disney+ and HBO Max.
 <br/>
 
-## :computer: Current Stack:<br/>
+## Current Stack :computer &nbsp;
 [<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
 [<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />](https://elixir-lang.org/)
 [<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
