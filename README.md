@@ -22,7 +22,7 @@ I'm a web development engineer who loves to solve problems bringing innovative s
 
 ## About me 📙 &nbsp;
 :rocket:  &nbsp; Working at **[@ioet](https://github.com/ioet)**
-<br/> :coffee: &nbsp; Looking for project collabs using React and Electron.
+<br/> :coffee: &nbsp; Looking for project collabs using React and Tauri.
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox.
 <br/> 💬 &nbsp; Love to play some games like Stardew Valley, Armello, Inscryption etc;
 <br/> 🖥️ &nbsp; Also looking for new series on Netflix, Disney+ and HBO Max.
