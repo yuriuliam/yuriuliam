@@ -21,17 +21,16 @@ Here are some ideas to get you started:
 I'm a web development engineer who loves to solve problems bringing innovative solutions.<br/>
 
 ## About me 📙 &nbsp;
-:rocket:  &nbsp; Working at **[@ioet](https://github.com/ioet)**
-<br/> :coffee: &nbsp; Looking for project collabs using React and Tauri.
-<br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox.
-<br/> 💬 &nbsp; Love to play some games like Stardew Valley, Armello, Inscryption etc;
-<br/> 🖥️ &nbsp; Also looking for new series on Netflix, Disney+ and HBO Max.
+:rocket: &nbsp; Currently working at **[@ioet](https://github.com/ioet)**
+<br/> :coffee: &nbsp; Looking for project collabs using React, Vite, Turbopack, Phoenix and Tauri.
+<br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox and Design System.
+<br/> 💬 &nbsp; Love to play some games like Chess, Tetris, Inscryption, Team Fortress 2, Minecraft etc;
+<br/> 🖥️ &nbsp; Wanna talk, watch something or just discuss about tech? Let's talk! ^_^
 <br/>
 
-## Current Stack :computer: &nbsp;
-[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
-[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />](https://elixir-lang.org/)
-[<img width="96px" height="96px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
-
 ## Contact me :email: &nbsp;
-[<img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yuri-uliam-de-lima-423586184/)
+[<img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yuriuliam/)
+
+## Metrics
+
+![Metrics](/github-metrics.svg)
