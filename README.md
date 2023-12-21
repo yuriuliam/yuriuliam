@@ -25,12 +25,12 @@ I'm a web development engineer who loves to solve problems bringing innovative s
 <br/> :coffee: &nbsp; Looking for project collabs using React, Vite, Turbopack, Phoenix and Tauri.
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox and Design System.
 <br/> 💬 &nbsp; Love to play some games like Chess, Tetris, Inscryption, Team Fortress 2, Minecraft etc;
-<br/> 🖥️ &nbsp; Wanna talk, watch something or just discuss about tech? Let's talk! ^_^
+<br/> 🖥️ &nbsp; Wanna talk, watch something or just discuss about tech and architecture? Let's go! =)
 <br/>
 
 ## Contact me :email: &nbsp;
 [<img width="48px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/yuriuliam/)
 
-## Metrics
+## Funny data, heheh
 
 ![Metrics](/github-metrics.svg)
