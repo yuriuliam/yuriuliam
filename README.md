@@ -22,7 +22,7 @@ I'm a web development engineer who loves to solve problems bringing innovative s
 
 ## About me 📙 &nbsp;
 :rocket: &nbsp; Currently working at **[@ioet](https://github.com/ioet)**
-<br/> :coffee: &nbsp; Looking for project collabs using React, Vite, Turbopack, Phoenix and Tauri.
+<br/> :coffee: &nbsp; Looking for project collabs using React, Vite, Turbopack, Phoenix and/or Tauri.
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox and Design System.
 <br/> 💬 &nbsp; Love to play some games like Chess, Tetris, Inscryption, Team Fortress 2, Minecraft etc;
 <br/> 🖥️ &nbsp; Wanna talk, watch something or just discuss about tech and architecture? Let's go! =)
